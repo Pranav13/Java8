@@ -11,6 +11,8 @@ The Repository contains the below Java8 Topics:
     II.Functions
   
     III.Consumer
+
+    IV.Supplier
   
 4)Stream API
 
